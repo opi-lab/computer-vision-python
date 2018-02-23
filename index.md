@@ -12,13 +12,12 @@ Andrés Marrugo, PhD
 
 ##  Aims and Scope
 
-This semester course is an introduction to computer vision. It is aimed at graduate students in the Faculty of Engineering. We will focus on the practical and theoretical aspects of techniques in computer vision.
+This semester course is an introduction to computer vision in Python. It is aimed at graduate students in the Faculty of Engineering. We will focus on the practical aspects of techniques in computer vision with a hands on approach.
 
 At the end of the lectures, one would be able to:
 
-- Have clear idea of challenges in computer vision due to increasing use in mobile applications.
 - Understand many different computer vision algorithms and approaches.
-- Implement computer vision algorithms for mid-level vision tasks.
+- Implement computer vision algorithms for mid-level vision tasks in Python.
  
 
 
@@ -26,20 +25,11 @@ At the end of the lectures, one would be able to:
 
 ### Tutorials, review materials
 
-- [MATLAB tutorial](matlab.intro.html)
-- More MATLAB tutorials: [basic operations][bo], [programming][pro], [working with images][wim]
+- [Python For Beginners](https://www.python.org/about/gettingstarted/ "Python For Beginners | Python.org")
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/book/ "Learn Python the Hard Way")
 - [Linear algebra review](http://www.cse.ucsd.edu/classes/wi05/cse252a/linear_algebra_review.pdf)
 - [Random variables review](http://www.cse.ucsd.edu/classes/wi05/cse252a/random_var_review.pdf)
- 
-[bo]: matlab_ops_tutorial.m
-[pro]:matlab_prog_tutorial.m
-[wim]: matlab_image_tutorial.m
 
-### MATLAB reference
-
-- [MATLAB guide from Mathworks](http://www.mathworks.com/access/helpdesk/help/techdoc/matlab.html)
-- [MATLAB image processing toolbox](http://www.mathworks.com/access/helpdesk/help/toolbox/images/)
-- [Writing fast code](http://www.mathworks.com/matlabcentral/fileexchange/5685)
 
 
 ## Outline
