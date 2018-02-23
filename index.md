@@ -25,7 +25,7 @@ At the end of the lectures, one would be able to:
 
 ### Tutorials, review materials
 
-- [Python For Beginners](https://www.python.org/about/gettingstarted/ "Python For Beginners | Python.org")
+- [Python For Beginners](https://www.python.org/about/gettingstarted/ "Python For Beginners")
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/ "Learn Python the Hard Way")
 - [Linear algebra review](http://www.cse.ucsd.edu/classes/wi05/cse252a/linear_algebra_review.pdf)
 - [Random variables review](http://www.cse.ucsd.edu/classes/wi05/cse252a/random_var_review.pdf)
