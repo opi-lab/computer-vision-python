@@ -51,7 +51,8 @@ We will be discussing the main aspects and motivation for computer vision.
 
 We will be discussing the basic .
 
-<!-- [Lecture 1 slides](https://www.dropbox.com/s/mc5ijbj9onqua67/lec01_intro.pdf?dl=0) -->
+- [Linear filter slides](https://www.dropbox.com/s/bii2lkpdl3y24rv/lec05_filter.pdf?dl=0)
+- [Binary images and mathematical morphology](https://www.dropbox.com/s/g3livg9tu7323ty/lec07-BinaryImages.pdf?dl=0)
 
 ### <mark>Assignment 1</mark>
 
