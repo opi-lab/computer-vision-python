@@ -5,9 +5,9 @@ title: Computer Vision in Python
 
 # Computer Vision in Python
 
-### Second semester 2018
+### First semester 2018
 
-Andrés Marrugo, PhD
+Andrés Marrugo, PhD 
 *Universidad Tecnológica de Bolívar*
 
 ##  Aims and Scope
