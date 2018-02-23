@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Computer Vision
+title: Computer Vision in Python
 ---
 
-# Computer Vision
+# Computer Vision in Python
 
-### Second semester 2016
+### Second semester 2018
 
 Andrés Marrugo, PhD
 *Universidad Tecnológica de Bolívar*
