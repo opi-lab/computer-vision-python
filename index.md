@@ -30,6 +30,10 @@ At the end of the lectures, one would be able to:
 - [Linear algebra review](http://www.cse.ucsd.edu/classes/wi05/cse252a/linear_algebra_review.pdf)
 - [Random variables review](http://www.cse.ucsd.edu/classes/wi05/cse252a/random_var_review.pdf)
 
+### Suggested textbooks
+
+- Solem, Jan Erik. Programming Computer Vision with Python: Tools and algorithms for analyzing images. " O'Reilly Media, Inc.", 2012.
+- Forsyth, David A., and Jean Ponce. Computer vision: a modern approach. Prentice Hall Professional Technical Reference, 2002.
 
 
 ## Outline
@@ -40,9 +44,24 @@ This is a new course, this website will be updated as we go along.
 
 We will be discussing the main aspects and motivation for computer vision.
 
-[Lecture 1 slides](https://www.dropbox.com/s/mc5ijbj9onqua67/lec01_intro.pdf?dl=0)
+<!-- [Lecture 1 slides](https://www.dropbox.com/s/mc5ijbj9onqua67/lec01_intro.pdf?dl=0) -->
 
-### Lecture 2: Perspective projection
+
+### Lecture 2: Image manipulation in Python
+
+We will be discussing the basic .
+
+<!-- [Lecture 1 slides](https://www.dropbox.com/s/mc5ijbj9onqua67/lec01_intro.pdf?dl=0) -->
+
+### <mark>Assignment 1</mark>
+
+The goal of this assignment is to get familiarized with Python and basic image manipulations. **The assignment is due on 2018-03-02.** The assignment should be sent via github classroom:
+
+- [Assignment 1](https://classroom.github.com/a/77pxRHkz)
+
+<!-- [**Upload link**](https://www.dropbox.com/request/xC2aLa2w7hCGML1wKSqm) -->
+
+<!--### Lecture 2: Perspective projection
 
 We will be studying the main aspects about perspective projection and the pinhole camera model.
 
@@ -133,8 +152,8 @@ We will introduce the general approach towards image edge detection.
 
 We will introduce the general approach towards image edge detection.
 
-[Lecture 8 slides](https://www.dropbox.com/s/ibgtdylezx72abz/lec08_corner.pdf?dl=0)       
-[Harris corner detector](harris.m)      
+[Lecture 8 slides](https://www.dropbox.com/s/ibgtdylezx72abz/lec08_corner.pdf?dl=0)
+[Harris corner detector](harris.m)
 
 #### Reading
 
@@ -158,7 +177,7 @@ The goal of this assignment is to implement a Laplacian blob detector. **The ass
 
 We will introduce motion estimation in computer vision.
 
-[Lecture 10 slides](https://www.dropbox.com/s/6db7s4etomd0p21/lec10_optical_flow.pdf?dl=0)       
+[Lecture 10 slides](https://www.dropbox.com/s/6db7s4etomd0p21/lec10_optical_flow.pdf?dl=0)
 
 #### Reading
 
@@ -168,7 +187,7 @@ We will introduce motion estimation in computer vision.
 
 In this lecture we will discuss the main aspects of fitting data to a parametric model, especially under the assumption of noisy data.
 
-[Lecture 11 slides](https://www.dropbox.com/s/dqx065cez99pim2/lec11_fitting.pdf?dl=0)       
+[Lecture 11 slides](https://www.dropbox.com/s/dqx065cez99pim2/lec11_fitting.pdf?dl=0)
 
 #### Reading
 
@@ -179,7 +198,7 @@ In this lecture we will discuss the main aspects of fitting data to a parametric
 
 We continue on the topic of fitting, this time via the Hough Transform.
 
-[Lecture 12 slides](https://www.dropbox.com/s/ts2azv8nxcdi9lt/lec12_hough.pdf?dl=0)       
+[Lecture 12 slides](https://www.dropbox.com/s/ts2azv8nxcdi9lt/lec12_hough.pdf?dl=0)
 
 #### Reading
 
@@ -187,9 +206,9 @@ We continue on the topic of fitting, this time via the Hough Transform.
 
 ### Lecture 13: Alignment
 
-Registration or alignment is the problem of finding a transformation that takes one dataset to another. 
+Registration or alignment is the problem of finding a transformation that takes one dataset to another.
 
-[Lecture 13 slides](https://www.dropbox.com/s/4u45v4jwiqztxzy/lec13_alignment.pptx?dl=0)       
+[Lecture 13 slides](https://www.dropbox.com/s/4u45v4jwiqztxzy/lec13_alignment.pptx?dl=0)
 
 #### Reading
 
@@ -197,7 +216,7 @@ Registration or alignment is the problem of finding a transformation that takes 
 
 ### In class assignment 4
 
-The goal of this assignment is to implement a naive RANSAC line fiting. 
+The goal of this assignment is to implement a naive RANSAC line fiting.
 **The assignment is due on 2016-10-16 at 11:00 pm.**
 The code:
 
@@ -207,9 +226,9 @@ The code:
 
 ### Lecture 14: Calibration
 
-Calibrating a single camera. 
+Calibrating a single camera.
 
-[Lecture 14 slides](https://www.dropbox.com/s/lj8md9yf7gzo4eh/lec14_calibration.pptx?dl=0)       
+[Lecture 14 slides](https://www.dropbox.com/s/lj8md9yf7gzo4eh/lec14_calibration.pptx?dl=0)
 
 #### Reading
 
@@ -218,9 +237,9 @@ Calibrating a single camera.
 
 ### Lecture 15: Single-view Modeling
 
-Measuring objects from a single image. 
+Measuring objects from a single image.
 
-[Lecture 15 slides](https://www.dropbox.com/s/vwallrq77g7ilwk/lec15_single_view.pptx?dl=0)       
+[Lecture 15 slides](https://www.dropbox.com/s/vwallrq77g7ilwk/lec15_single_view.pptx?dl=0)
 
 #### Reading
 
@@ -228,16 +247,16 @@ Measuring objects from a single image.
 
 ### Lecture 16: Epipolar Geometry
 
-Two or more cameras. 
+Two or more cameras.
 
-[Lecture 16 slides](https://www.dropbox.com/s/mxjj19geha1r3lu/lec16_epipolar.pptx?dl=0)       
+[Lecture 16 slides](https://www.dropbox.com/s/mxjj19geha1r3lu/lec16_epipolar.pptx?dl=0)
 
 #### Reading
 
 - [Forsyth and Ponce section 7.1](https://www.dropbox.com/s/52w4q1s7ysbg92n/Forsyth-Ponce-chapter-07-1-2.pdf?dl=0)
 
 
-### <mark>Assignment 5</mark> 
+### <mark>Assignment 5</mark>
 
 The goal of this assignment is to implement robust homography and fundamental matrix estimation to register pairs of images separated either by a 2D or 3D projective transformation. **The assignment is due on 2016-12-02 at 12:00 m.** The assignment and the data:
 
@@ -249,4 +268,4 @@ The goal of this assignment is to implement robust homography and fundamental ma
 
 - [Homography estimation](https://www.dropbox.com/s/eqdbgotv1n82yz1/ex1.pdf?dl=0)
 - [Hartley and Zisserman - chapter 4](https://www.dropbox.com/s/ujqmwe6u8vrndr2/Richard%20Hartley%20Andrew%20Zisserman-Multiple%20View%20Geometry%20in%20Computer%20Vision%2C%202nd%20Edition%20%282004%29.pdf?dl=0)
-
+ -->
