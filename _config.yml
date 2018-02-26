@@ -5,6 +5,7 @@ description: >
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://opi-lab.github.io/computer-vision-python/" # the base hostname & protocol for your site
+repo: "computer-vision-python"
 
 #source: /
 # destination: /_site/
