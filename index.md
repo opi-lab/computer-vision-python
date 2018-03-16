@@ -60,6 +60,17 @@ The goal of this assignment is to get familiarized with Python and basic image m
 
 - [Assignment 1](https://classroom.github.com/a/77pxRHkz)
 
+### Lecture 3: Local Image descriptors
+
+We will be discussing Harris and SIFT descritors.
+
+
+### <mark>Assignment 2</mark>
+
+The goal of this assignment is to understand and use local image descriptors. **The assignment is due on 2018-03-23.** The assignment should be sent via github classroom:
+
+- [Assignment 2](https://classroom.github.com/a/srRCOB3v)
+
 <!-- [**Upload link**](https://www.dropbox.com/request/xC2aLa2w7hCGML1wKSqm) -->
 
 <!--### Lecture 2: Perspective projection
