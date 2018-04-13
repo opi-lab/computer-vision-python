@@ -71,6 +71,20 @@ The goal of this assignment is to understand and use local image descriptors. **
 
 - [Assignment 2](https://classroom.github.com/a/srRCOB3v)
 
+
+### Lecture 4: Image to image mappings
+
+We will be discussing 2D to 2D image mappings. Homography, Affine transformations, among others.
+
+- [2D-2D transformations slides](https://www.dropbox.com/s/2vq3c0jemu94585/lec03-2Dto2DcoordinateTransforms.pdf?dl=0)
+- [Alignment slides](https://www.dropbox.com/s/fr9tzyitt7c2xwz/lec11_alignment.pptx?dl=0)
+
+### <mark>Assignment 3</mark>
+
+The goal of this assignment is to understand and use image to image mappings. **The assignment is due on 2018-04-20.** The assignment should be sent via github classroom:
+
+-[Assignment 3](https://classroom.github.com/a/LRtOZvl9)
+
 <!-- [**Upload link**](https://www.dropbox.com/request/xC2aLa2w7hCGML1wKSqm) -->
 
 <!--### Lecture 2: Perspective projection
