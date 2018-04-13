@@ -83,7 +83,7 @@ We will be discussing 2D to 2D image mappings. Homography, Affine transformation
 
 The goal of this assignment is to understand and use image to image mappings. **The assignment is due on 2018-04-20.** The assignment should be sent via github classroom:
 
--[Assignment 3](https://classroom.github.com/a/LRtOZvl9)
+- [Assignment 3](https://classroom.github.com/a/LRtOZvl9)
 
 <!-- [**Upload link**](https://www.dropbox.com/request/xC2aLa2w7hCGML1wKSqm) -->
 
