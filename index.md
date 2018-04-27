@@ -85,6 +85,15 @@ The goal of this assignment is to understand and use image to image mappings. **
 
 - [Assignment 3](https://classroom.github.com/a/LRtOZvl9)
 
+### <mark>Projects</mark>
+
+In this course you are required to complete a short project, similar to the assignments, but you are free to choose the approach and the implementation. You will work in teams of two and you will deliver a project report in the IEEE paper format and a 15 minute presentation. 
+
+**The project is due June 1.**
+
+- [Project proposals and guidelines](projects)
+- [Upload link]()
+
 <!-- [**Upload link**](https://www.dropbox.com/request/xC2aLa2w7hCGML1wKSqm) -->
 
 <!--### Lecture 2: Perspective projection
