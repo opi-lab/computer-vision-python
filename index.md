@@ -92,7 +92,7 @@ In this course you are required to complete a short project, similar to the assi
 **The project is due June 1.**
 
 - [Project proposals and guidelines](projects)
-- [Upload link]()
+- [Upload link](https://classroom.github.com/g/4NRKaQRq)
 
 <!-- [**Upload link**](https://www.dropbox.com/request/xC2aLa2w7hCGML1wKSqm) -->
 
